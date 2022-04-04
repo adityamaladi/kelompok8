@@ -1,5 +1,3 @@
-from tkinter import Frame
-from nbformat import read
 import pandas as pd
 # import plotly.express as px
 import streamlit as st
